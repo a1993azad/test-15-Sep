@@ -1,1 +1,3 @@
-# test-15-Sep
+# javascript-quiz
+
+# This is my Javascript code challenge 
